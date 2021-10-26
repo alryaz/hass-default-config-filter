@@ -1,0 +1,43 @@
+{
+    "config": {
+        "abort": {
+            "single_entry_allowed": "Single filtering entry is allowed"
+        },
+        "error": {
+            "invalid_format": "Invalid format for following domain(s): '{failed_domains}'"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "disabled_domains": "Domains to disable",
+                    "extra_domains": "Add unlisted domains (comma-separated)"
+                },
+                "description": ""
+            }
+        }
+    },
+    "options": {
+        "abort": {
+            "restart_pending": "Home Assistant restart is pending"
+        },
+        "error": {
+            "invalid_format": "Invalid format for following domain(s): '{failed_domains}'"
+        },
+        "step": {
+            "init": {
+                "data": {
+                    "configure_domains": "Configure domains (without restarting)"
+                },
+                "description": "Home Assistant restart is required to apply latest changes. Confirm this step to restart your Home Assistant server.\n\nTo configure domains without restarting the server, tick "
+            },
+            "user": {
+                "data": {
+                    "disabled_domains": "Domains to disable",
+                    "extra_domains": "Add unlisted domains (comma-separated)"
+                },
+                "description": ""
+            }
+        }
+    },
+    "title": "Default Configuration Filter"
+}

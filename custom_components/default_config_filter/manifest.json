@@ -1,0 +1,12 @@
+{
+    "domain": "default_config_filter",
+    "name": "Default Configuration Filter",
+    "documentation": "https://github.com/alryaz/hass-default-config-filter",
+    "issue_tracker": "https://github.com/alryaz/hass-default-config-filter/issues",
+    "dependencies": [],
+    "version": "0.0.1",
+    "codeowners": ["@alryaz"],
+    "requirements": [],
+    "config_flow": true,
+    "iot_class": "calculated"
+}
