@@ -1,5 +1,5 @@
 # Default configuration filtering for _Home Assistant_
-> Filter out `default_config` without eliminating intruding into configuration.yaml.
+> Filter out `default_config` without intruding into configuration.yaml.
 > 
 > &gt;= Home Assistant 2021.8.0
 > 
