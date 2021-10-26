@@ -51,7 +51,7 @@ something I require._
 
 The easiest method of installing is through GUI (options etc. supported)
 
-[![Configure default_config_filter integration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=default_config_filter)
+[![Configure default_config_filter integration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=default_config_filter)  
 <small>(Alternatively, open _Settings_ &#8594; _Integrations_ &#8594; _Add new integration_ &#8594; _Default Config Filter_)</small>
 
 ### Using `configuration.yaml`
